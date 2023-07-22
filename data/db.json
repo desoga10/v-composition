@@ -1,0 +1,28 @@
+{
+  "posts":[
+    {
+      "id": 1,
+      "title": "Hello World!",
+      "author": "John Doe",
+      "date": "2012-02-01",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Maxime mollitia molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio eaque rerum! Provident similique accusantium nemo autem Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil eveniet aliquid culpa officia aut Impedit sit sunt quaera oditenetur error harum nesciunt ipsum debitis quas aliquid",
+      "tags": [
+        "web dev",
+        "tech",
+        "personal"
+      ]
+    },
+    {
+       "id": 2,
+      "title": "My Second Post",
+      "author": "Jane Doe",
+      "date": "2012-02-02",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit Maxime mollitia molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio eaque rerum! Provident similique accusantium nemo autem Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil eveniet aliquid culpa officia aut Impedit sit sunt quaera oditenetur error harum nesciunt ipsum debitis quas aliquid",
+      "tags": [
+        "web dev",
+        "css",
+        "javascript"
+      ]
+    }
+  ]
+}
